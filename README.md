@@ -1,4 +1,4 @@
-# 📊 BMI Advanced Calculator
+# 📊 BMI Calculator
 
 A sleek, dynamic BMI calculator built using React Native and Expo. 
 
