@@ -1,7 +1,5 @@
 # 📊 BMI Calculator
 
-![App Preview](./assets/preview.png)
-
 A sleek, dynamic BMI calculator built using React Native and Expo. 
 
 ## ✨ Features
